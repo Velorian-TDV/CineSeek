@@ -1,7 +1,13 @@
 import React from 'react';
 
 const App = () => {
-    return <h1>Разработка приложения CineSeek в процессе</h1>;
+    return (
+        <div>
+            <h1>CineSeek app development in progress</h1>
+            <h2>Stage: Development UI</h2>
+        </div>
+        
+    );
 };
 
 export default App;

@@ -3,7 +3,9 @@
 This application help you to search films get fresh news about them and store you favorite movies and news about them into your space.
 
 ### Project under development of the UI
-### Link to the github pages of this project:
+
+### Link to the github pages of this project: 
+### https://velorian-tdv.github.io/CineSeek/
 
 ## Technology stack
 ### Work with Frontend
@@ -34,7 +36,7 @@ This application help you to search films get fresh news about them and store yo
     - Firebase
 
 # General information
-## Author: Terletsky Dmitry
-## Mail: TerleckyDima92@gmail.com
-## License: MIT
+### Author: Terlecky Dmitry
+### Mail: TerleckyDima92@gmail.com
+### License: MIT
 ### This is a non-profit pet project for education and my portfolio, the purpose of project is not to earn money.
